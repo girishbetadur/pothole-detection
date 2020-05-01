@@ -1,0 +1,1 @@
+The dataset for this project can be downloaded from kaggle.Initially run pothole_detection.py file. then run cnn_predict.py file.
